@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/ilhamrizqif/testskill/issues"
   },
-  "homepage": "https://github.com/ilhamrizqif/testskill#readme"
+  "homepage": "https://github.com/ilhamrizqif/testskill#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mysql": "^2.18.1",
+    "parser": "^0.1.4"
+  }
 }
